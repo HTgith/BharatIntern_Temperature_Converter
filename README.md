@@ -5,4 +5,4 @@ WebDevelopment-Basic
 
 Task-2: TEMPERATURE CONVERTER
 
-Technologies used: HTML,CSS,JavaScript
+Technologies used: HTML,CSS & JavaScript
